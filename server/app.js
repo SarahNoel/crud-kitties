@@ -1,3 +1,4 @@
+require('dotenv').load();
 require('./database');
 // *** main dependencies *** //
 var express = require('express');
